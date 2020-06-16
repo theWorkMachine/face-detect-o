@@ -1,0 +1,10 @@
+.Tilt{
+    /* background: linear-gradient(89deg, #00b4ab 0%,#e65c00  100%); */
+    
+    background: linear-gradient(75deg, #00b8a9 2%, #004e72 98%);
+}
+
+#imgSize{
+    width: 100px;
+    height: 100px;
+}
